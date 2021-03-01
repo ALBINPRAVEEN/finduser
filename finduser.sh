@@ -1,7 +1,7 @@
 #!/bin/bash
 # FindUser v1.2
-# Author: @Hak9
-# https://github.com/xHak9x/finduser
+# Author: Alby
+# https://github.com/ALBINPRAVEEN/finduser
 
 trap 'printf "\n";partial;exit 1' 2
 
@@ -14,7 +14,7 @@ printf "\e[1;77m  |     \   |  |   |  \/ /_/ ||    |  /\___ \\  ___/|  | \/ \e[0
 printf "\e[1;77m  \___  /   |__|___|  /\____ ||______//____  >\___  >__|   \e[0m\n"
 printf "\e[1;77m      \/            \/      \/             \/     \/       \e[0m\n"
 printf "\n"
-printf "\e[1;93m .:.:.\e[0m\e[1;77m v1.2 FindUser coded by: @Hak9 \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m .:.:.\e[0m\e[1;77m v1.2 FindUser Made by: ALBY \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 
 
